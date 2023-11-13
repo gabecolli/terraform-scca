@@ -24,7 +24,7 @@ enable_traffic_analytics = true
 # 02 Management Groups Configuration  ##
 ########################################
 
-enable_management_groups           = true   # enable management groups for this subscription
+enable_management_groups           = false   # enable management groups for this subscription
 root_management_group_id           = "anoa" # the root management group id for this subscription
 root_management_group_display_name = "anoa" # the root management group display name for this subscription
 
